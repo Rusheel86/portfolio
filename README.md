@@ -1,7 +1,7 @@
 # 🤖 Rusheel's AI Portfolio
 
 ![Portfolio Preview](./assets/img/preview-portfolio.png)  
-*Live demo: [https://RedEgnival.github.io/portfolio](https://RedEgnival.github.io/portfolio)*
+*Live demo: [https://Rusheel86.github.io/portfolio](https://Rusheel86.github.io/portfolio)*
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)](https://Rusheel86.github.io/portfolio)
 [![Last Updated](https://img.shields.io/github/last-commit/RedEgnival/portfolio)](https://github.com/RedEgnival/portfolio/commits/main)
